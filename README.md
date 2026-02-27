@@ -48,14 +48,6 @@ Me chamo Alisson Cardoso Fernandes, tenho 20 anos e sou natural da Bahia. Conclu
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
----
-
-### 📊 Estatísticas
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alisson&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson&layout=compact&theme=tokyonight" />
-</p> 
 
 ---
 
